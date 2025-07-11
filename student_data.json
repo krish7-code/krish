@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "esaakiraja",
+        "S_ID": 2,
+        "Number": "123456789",
+        "Age": 18,
+        "Department": "AIDS",
+        "CGPA": 8.0
+    },
+    {
+        "Name": "arul",
+        "S_ID": 14,
+        "Number": "15935784620",
+        "Age": 20,
+        "Department": "AIDS",
+        "CGPA": 9.0
+    },
+    {
+        "Name": "prakash",
+        "S_ID": 4,
+        "Number": "4578963210",
+        "Age": 20,
+        "Department": "CSE",
+        "CGPA": 8.5
+    }
+]
